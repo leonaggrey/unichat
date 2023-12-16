@@ -1,0 +1,9 @@
+#noticemessages{
+	margin-top:70px;
+    margin-bottom:70px;
+    width:100%;
+    height:calc(100vh-70px);
+    flex:1 0 auto;
+	overflow:auto;
+	background-color:rgb(47,86,99);    
+}

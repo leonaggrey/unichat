@@ -1,0 +1,96 @@
+
+
+@media only screen and (max-width: 800px) {
+     #popup {
+  width: 75%;            
+	 }
+     nav{
+         display:none;
+         width:50%;
+         padding-top:10px;
+         z-index:10;
+     }
+     section{
+         width:100%;
+         margin-left:0;
+     }
+     #respondent h4{
+         display:none;
+     }
+     #respondent h1{
+         margin-right:auto;
+         margin-left:5px;
+         font-size:20px;
+     }
+     #popup-link{
+    height: 30px;
+    width:70px;
+    border-radius: 5px;
+	box-shadow:0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	margin-left:auto;
+	margin-right:10px;
+    }
+     #popup-link-menu{
+         display:block;
+	background-color: rgb(47,86,99);
+    border: none;
+    font-weight: bold;
+	color:white;
+    height: 40px;
+    width:40px;
+    border-radius: 5px;
+	box-shadow:0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	margin-left:0;
+	margin-right:10px;
+}
+    #close-navi{
+    display:block;
+	background-color: #FF0000;
+    border: none;
+    font-weight: bold;
+	color:white;
+    height: 40px;
+    width:90%;
+    border-radius: 5px;
+	box-shadow:0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	margin-left:9%;
+}
+    #suggestionbox{
+        width:85%;
+    }
+    #text{
+    height: 70px;
+	width:100%;
+	padding:8px 5px;
+	margin:auto;
+}
+#text button{
+    
+    width:70px;
+	margin:10px 5px 10px 5px;
+
+}
+#send{
+    margin-left:10px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

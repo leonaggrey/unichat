@@ -1,0 +1,37 @@
+#sign{
+	margin:10px auto auto auto;
+	width:50%;
+	background-color:#f0f0f0;
+	border-radius:10px;
+	padding:10px;
+}
+#sign input[type="text"], input[type="password"], input[type="email"],select{
+	margin:10px auto;
+	width:100%;
+	border-color:#50C878;
+	border-radius:5px;
+	padding:5px;
+}
+#sign input[type="submit"]{
+	width:100%;
+	background-color:#50C878;
+	border-radius:5px;
+	color:white;
+	padding:5px;
+}
+#signhead{
+	text-align:center;
+	background-color:rgb(47,86,99);
+	border-radius:5px;
+	padding:5px;
+	color:white;
+	
+}
+#loghead{
+	text-align:center;
+	background-color:#ff0000;
+	border-radius:5px;
+	padding:5px;
+	color:white;
+	margin-bottom:10px;
+}

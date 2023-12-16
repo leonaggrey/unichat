@@ -1,0 +1,30 @@
+#suggestionbox {
+  width: 50%;
+  height: fit-content;
+  border: 1px solid #ccc;
+  border-radius:20px;
+  padding: 10px;
+  margin: 100px auto 10px auto;
+  text-align:center;
+	background-color: #f2f2f2;
+} 
+#settings_form{
+	margin:40px auto;
+	text-align:left;
+	width:40%;
+}
+#settings_form input[type="radio"]{
+	margin:20px;
+}
+#settings_form input[type="submit"]{
+	background-color:rgb(47,86,99);
+	border: none;
+    height: 25px;
+	text-align:center;
+    width:70px;
+    border-radius: 7px;
+	margin-top:40px;
+	margin-left:50px;
+	color:white;
+	padding:5px 20px;
+}
